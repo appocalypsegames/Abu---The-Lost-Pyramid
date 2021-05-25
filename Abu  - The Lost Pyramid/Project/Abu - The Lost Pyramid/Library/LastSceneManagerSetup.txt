@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/Resources/Scenes/Laberinto.unity
-  isLoaded: 1
-  isActive: 1
