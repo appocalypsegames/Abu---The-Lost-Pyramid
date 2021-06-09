@@ -1257,7 +1257,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1944a7f9099201e429c6fdb801207c15, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  contadorMax: 2500
+  contadorMax: 2600
   direccion: 1
 --- !u!23 &233878137
 MeshRenderer:
@@ -2272,7 +2272,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1944a7f9099201e429c6fdb801207c15, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  contadorMax: 1000
+  contadorMax: 1200
   direccion: 2
 --- !u!65 &443381963
 BoxCollider:
